@@ -52,6 +52,15 @@ hr.star-primary:after {
 .masthead img{
   
 }
+
+.modal-body img{
+  display: block;
+}
+
+#ble{
+  background-color:#A33950; 
+}
+
 hr.star-light {
   border-color: #2C3E50; }
 
